@@ -1,0 +1,39 @@
+gemini-replicate
+python-dotenv
+Flask
+Werkzeug
+Jinja2
+itsdangerous
+click
+
+# OpenCV
+opencv-python
+Pillow
+
+# Anthropic API (assuming you're using it for AI)
+anthropic
+
+# HTTP requests
+requests
+
+# Data processing
+numpy
+pandas
+
+# Debugging
+Flask-DebugToolbar
+
+# WSGI server
+gunicorn
+
+# Date and time handling
+pytz
+
+# Security
+Flask-WTF
+Flask-Login
+
+
+# Testing
+pytest
+pytest-flask
